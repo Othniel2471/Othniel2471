@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **React js and Ruby**
+- 🌱 I’m currently learning **Ruby**
 
 - 👨‍💻 All of my projects are available at [https://othnielomaidu.vercel.app/](https://othnielomaidu.vercel.app/)
 
