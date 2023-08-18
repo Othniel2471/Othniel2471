@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React js and Ruby**
 
-- 👨‍💻 All of my projects are available at [https://othniel2471.github.io/portfolio-mv/](https://othniel2471.github.io/portfolio-mv/)
+- 👨‍💻 All of my projects are available at [https://othnielomaidu.vercel.app/](https://othnielomaidu.vercel.app/)
 
 - 💬 Ask me about **...**
 
