@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://othniel2471.github.io/portfolio-mv/](https://othniel2471.github.io/portfolio-mv/)
 
-- 💬 Ask me about **Vue js and Vanilla js**
+- 💬 Ask me about **...**
 
 - 📫 How to reach me **omaiduothniel@gmail.com**
 
