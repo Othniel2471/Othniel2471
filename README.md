@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Ruby**
 
-- 👨‍💻 All of my projects are available at [https://othnielomaidu.vercel.app/](https://othnielomaidu.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://othnielomaidu.onrender.com/](https://othnielomaidu.onrender.com/)
 
 - 💬 Ask me about **...**
 
